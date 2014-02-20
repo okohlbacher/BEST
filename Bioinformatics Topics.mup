@@ -1,0 +1,337 @@
+{
+  "title": "Bioinformatics Topics",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Sequence Analysis",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Alignment",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Pairwise Alignment",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "DP",
+                  "id": 49
+                }
+              }
+            },
+            "2": {
+              "title": "MSA",
+              "id": 8
+            }
+          }
+        },
+        "2": {
+          "title": "Assembly",
+          "id": 9,
+          "ideas": {}
+        },
+        "4": {
+          "title": "Genomics",
+          "id": 35
+        },
+        "5": {
+          "title": "Annotation",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "Gene Finding",
+              "id": 37
+            },
+            "2": {
+              "title": "Motif Finding",
+              "id": 38
+            },
+            "3": {
+              "title": "Functional Annotation",
+              "id": 39,
+              "ideas": {
+                "1": {
+                  "title": "Experimental Annotation",
+                  "id": 51
+                }
+              }
+            }
+          }
+        },
+        "4.5": {
+          "title": "Molecular Evolution",
+          "id": 69,
+          "ideas": {
+            "1": {
+              "title": "Phylogenetics",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Computational Systems Biology",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Omics Data Analysis",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Proteomics",
+              "id": 16
+            },
+            "2": {
+              "title": "Metabolomics",
+              "id": 17
+            },
+            "3": {
+              "title": "Transcriptomics",
+              "id": 18
+            }
+          }
+        },
+        "2": {
+          "title": "Network Biology",
+          "id": 77
+        }
+      }
+    },
+    "3": {
+      "title": "Foundations of Life Sciences",
+      "id": 13,
+      "ideas": {
+        "1": {
+          "title": "Biochemistry",
+          "id": 19,
+          "ideas": {
+            "1": {
+              "title": "Organic Chemistry",
+              "id": 20,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "General Chemistry",
+              "id": 21
+            },
+            "3": {
+              "title": "Physical Chemistry",
+              "id": 22
+            },
+            "4": {
+              "title": "Biomacromolecules",
+              "id": 40,
+              "ideas": {
+                "1": {
+                  "title": "RNA ",
+                  "id": 41
+                },
+                "2": {
+                  "title": "DNA",
+                  "id": 42,
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Proteins",
+                  "id": 44,
+                  "ideas": {
+                    "1": {
+                      "title": "Protein Structure",
+                      "id": 67,
+                      "ideas": {
+                        "1": {
+                          "title": "Structure Elucidation",
+                          "id": 68
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "High-Throughput Technologies",
+          "id": 52,
+          "ideas": {
+            "2": {
+              "title": "Chromatography",
+              "id": 54
+            },
+            "3": {
+              "title": "Mass Spectrometry",
+              "id": 55
+            },
+            "4": {
+              "title": "Sequencing",
+              "id": 45,
+              "ideas": {
+                "1": {
+                  "title": "Sanger Sequencing",
+                  "id": 46
+                },
+                "2": {
+                  "title": "NGS",
+                  "id": 47,
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Structural Bioinformatics",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "RNA Structure",
+          "id": 56
+        },
+        "2": {
+          "title": "Protein Structure",
+          "id": 57,
+          "ideas": {
+            "1": {
+              "title": "Secondary Structure Prediction",
+              "id": 59
+            },
+            "2": {
+              "title": "Homology Modeling",
+              "id": 60
+            },
+            "3": {
+              "title": "Ab initio Modeling",
+              "id": 62
+            }
+          }
+        },
+        "3": {
+          "title": "Computer-Aided Drug Design",
+          "id": 63,
+          "ideas": {
+            "1": {
+              "title": "Docking",
+              "id": 64
+            },
+            "2": {
+              "title": "De Novo Design",
+              "id": 65
+            },
+            "3": {
+              "title": "Cheminformatics",
+              "id": 66
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Foundations of CS",
+      "id": 12,
+      "ideas": {
+        "1": {
+          "title": "Algorithms and Complexity",
+          "id": 31
+        },
+        "2": {
+          "title": "Data Structures",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "Suffix Tree",
+              "id": 33
+            },
+            "2": {
+              "title": "Graphs",
+              "id": 34
+            }
+          }
+        },
+        "3": {
+          "title": "Machine Learning",
+          "id": 70
+        },
+        "4": {
+          "title": "Optimization",
+          "id": 71,
+          "ideas": {
+            "1": {
+              "title": "Combinatorial Optimization",
+              "id": 72
+            }
+          }
+        },
+        "6": {
+          "title": "Maths",
+          "id": 75,
+          "ideas": {
+            "1": {
+              "title": "Statistics",
+              "id": 74,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-3": {
+      "title": "Bioinfo Resources",
+      "id": 26,
+      "ideas": {
+        "2": {
+          "title": "Databases",
+          "id": 28,
+          "ideas": {
+            "1": {
+              "title": "NCBI",
+              "id": 27,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "KEGG",
+              "id": 29
+            }
+          }
+        },
+        "3": {
+          "title": "Tools",
+          "id": 76
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffff00"
+        }
+      }
+    }
+  },
+  "links": []
+}
